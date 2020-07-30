@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/maharaty/static/css/main.2aedbee8.chunk.css",
+    "main.js": "/maharaty/static/js/main.5e392ed6.chunk.js",
+    "main.js.map": "/maharaty/static/js/main.5e392ed6.chunk.js.map",
+    "runtime-main.js": "/maharaty/static/js/runtime-main.da2977fb.js",
+    "runtime-main.js.map": "/maharaty/static/js/runtime-main.da2977fb.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/maharaty/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2f33eec9.chunk.js": "/maharaty/static/js/2.2f33eec9.chunk.js",
+    "static/js/2.2f33eec9.chunk.js.map": "/maharaty/static/js/2.2f33eec9.chunk.js.map",
+    "index.html": "/maharaty/index.html",
+    "precache-manifest.bfe517b97b35426193fe469f0844e658.js": "/maharaty/precache-manifest.bfe517b97b35426193fe469f0844e658.js",
+    "service-worker.js": "/maharaty/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/maharaty/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.2aedbee8.chunk.css.map": "/maharaty/static/css/main.2aedbee8.chunk.css.map",
+    "static/js/2.2f33eec9.chunk.js.LICENSE.txt": "/maharaty/static/js/2.2f33eec9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/maharaty/static/media/bg3.dd99bd80.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da2977fb.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2f33eec9.chunk.js",
+    "static/css/main.2aedbee8.chunk.css",
+    "static/js/main.5e392ed6.chunk.js"
+  ]
+}
