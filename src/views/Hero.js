@@ -7,7 +7,6 @@ import User from "../components/icons/User";
 function Hero(props) {
   return (
     <section id="hero">
-      
       <div className="container">
         <div className="row">
           <div className="col-lg-7 pt-5 pt-lg-0 order-2 order-lg-1 d-flex align-items-center">
@@ -18,9 +17,12 @@ function Hero(props) {
                 className="img-fluid mb-4 "
                 alt="test"
               /> */}
+              {/* <br /> */}
               <br />
-              <br />
-              <h2>أبدأ بتطوير ذاتك واكتساب المهارات من خلال هذه المنصة , نحن هنا لمساعدتك في تحقيق أحلامك , في مهاراتي ستجد الطريق نحو هدفك</h2>
+              <h2>
+                أبدأ بتطوير ذاتك واكتساب المهارات من خلال هذه المنصة , نحن هنا
+                لمساعدتك في تحقيق أحلامك , في مهاراتي ستجد الطريق نحو هدفك
+              </h2>
             </div>
           </div>
           <div
@@ -28,7 +30,7 @@ function Hero(props) {
             data-aos="zoom-out"
             data-aos-delay="300"
           >
-            <div className=" d-flex justify-content-center animated-opp">
+            <div className="d-flex justify-content-center animated-opp">
               <Man2 />
               <User />
             </div>
@@ -37,6 +39,11 @@ function Hero(props) {
               <Man />
             </div>
           </div>
+        </div>
+      </div>
+      <div className="row  d-flex justify-content-center align-item-center">
+        <div className=" d-flex col-lg-7  align-items-center">
+          <h1 className="text-center">فضلا اختر المجال المناسب لك ؟</h1>
         </div>
       </div>
 
@@ -70,7 +77,7 @@ function Hero(props) {
           ></use>
         </g>
         <g className="wave3">
-          <use xlinkHref="#wave-path" x={50} y={9} fill="#fff"></use>
+          <use xlinkHref="#wave-path" x={50} y={9} fill="rgb(245,245,245)"></use>
         </g>
       </svg>
     </section>
