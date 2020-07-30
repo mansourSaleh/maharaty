@@ -1,14 +1,14 @@
 import React from 'react';
+import Hero from './views/Hero';
+import MyNav from './components/MyNav';
 
 
 function App() {
   return (
-    <div className="container row mr-5 ml-5">
-      <header className="col-2">
-        <h1>Hello</h1>
-       
-      </header>
-    </div>
+    < >
+      <MyNav />
+      <Hero />
+    </>
   );
 }
 
