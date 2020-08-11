@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/maharaty/static/css/main.2aedbee8.chunk.css",
-    "main.js": "/maharaty/static/js/main.3e003d9d.chunk.js",
-    "main.js.map": "/maharaty/static/js/main.3e003d9d.chunk.js.map",
+    "main.js": "/maharaty/static/js/main.3b37e606.chunk.js",
+    "main.js.map": "/maharaty/static/js/main.3b37e606.chunk.js.map",
     "runtime-main.js": "/maharaty/static/js/runtime-main.da2977fb.js",
     "runtime-main.js.map": "/maharaty/static/js/runtime-main.da2977fb.js.map",
     "static/css/2.af3c1da9.chunk.css": "/maharaty/static/css/2.af3c1da9.chunk.css",
     "static/js/2.2f33eec9.chunk.js": "/maharaty/static/js/2.2f33eec9.chunk.js",
     "static/js/2.2f33eec9.chunk.js.map": "/maharaty/static/js/2.2f33eec9.chunk.js.map",
     "index.html": "/maharaty/index.html",
-    "precache-manifest.c1f050b8f91ceb2c407e9463721af842.js": "/maharaty/precache-manifest.c1f050b8f91ceb2c407e9463721af842.js",
+    "precache-manifest.3e363a9c82a2fc37548a9c5311cf8b21.js": "/maharaty/precache-manifest.3e363a9c82a2fc37548a9c5311cf8b21.js",
     "service-worker.js": "/maharaty/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/maharaty/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.2aedbee8.chunk.css.map": "/maharaty/static/css/main.2aedbee8.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.2f33eec9.chunk.js",
     "static/css/main.2aedbee8.chunk.css",
-    "static/js/main.3e003d9d.chunk.js"
+    "static/js/main.3b37e606.chunk.js"
   ]
 }

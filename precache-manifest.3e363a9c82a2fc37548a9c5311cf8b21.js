@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40cb66e001340846c7885b0a79eb04ca",
+    "revision": "c8dbc0612fc634fbd4bf224622a10b17",
     "url": "/maharaty/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maharaty/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "068ddfad896187e04d74",
+    "revision": "04ef7fe6206d83b5a596",
     "url": "/maharaty/static/css/main.2aedbee8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maharaty/static/js/2.2f33eec9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "068ddfad896187e04d74",
-    "url": "/maharaty/static/js/main.3e003d9d.chunk.js"
+    "revision": "04ef7fe6206d83b5a596",
+    "url": "/maharaty/static/js/main.3b37e606.chunk.js"
   },
   {
     "revision": "15761a438ed8946d0b9a",
