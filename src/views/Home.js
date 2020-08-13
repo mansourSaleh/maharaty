@@ -6,8 +6,12 @@ import {cards} from '../data'
 function Home() {
     return (
         <>
+        <div style={{display: 'flex', }}>
         <Hero />
-             <div className="d-flex flex-row-reverse justify-content-around align-items-center flex-wrap">
+        </div>
+
+
+             <div className="d-flex flex-row-reverse justify-content-around align-items-center flex-wrap pb-5 mb-5">
         {cards.map((card, i) => {
           return(
             <MyCard key={i} icon={card.icon} title={card.title} description={card.description} buttonTitle={card.buttonTitle} />

@@ -9,6 +9,7 @@ import {
   
 } from "react-router-dom";
 import Home from './views/Home';
+import Main from './views/Main';
 
 
 
@@ -26,13 +27,13 @@ function About() {
 
 function Users() {
   return <> 
-  <h2>Contact </h2> 
-  <h2>Contact </h2> 
-  <h2>Contact </h2> 
-  <h2>Contact </h2> 
-  <h2>Contact </h2> 
-  <h2>Contact </h2> 
-  <h2>Contact </h2> 
+  <h1>السلام عليكم</h1>
+  <h1>السلام عليكم</h1>
+  <h1>السلام عليكم</h1>
+  <h1 className="fff">السلام عليكم</h1>
+  <h1 className="fff">السلام عليكم</h1>
+  <h1>السلام عليكم</h1>
+  <h1>السلام عليكم</h1>
   </>;
 }
 
@@ -50,6 +51,9 @@ function App() {
           </Route>
           <Route exact path="/">
             <Home />
+          </Route>
+          <Route exact path="/main">
+            <Main />
           </Route>
         </Switch>
       

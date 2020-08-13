@@ -8,14 +8,14 @@ function Scrowp(props) {
         data-original="#000000"
         className="prefix__active-path"
         data-old_color="#000000"
-        fill="#05668D"
+        fill="#1D7B6B"
       />
       <path
         d="M236.378 285.621c-4.181 0-7.997-2.71-9.405-6.636-1.388-3.872-.2-8.321 2.936-10.987 3.276-2.785 8.092-3.113 11.745-.869 3.506 2.154 5.319 6.422 4.523 10.442-.913 4.615-5.092 8.05-9.799 8.05z"
         data-original="#000000"
         className="prefix__active-path"
         data-old_color="#000000"
-        fill="#05668D"
+        fill="#1D7B6B"
       />
     </svg>
   )

@@ -8,7 +8,7 @@ function Student(props) {
         data-original="#000000"
         className="prefix__active-path"
         data-old_color="#000000"
-        fill="#02C39A"
+        fill="#1D7B6B"
       />
     </svg>
   )
