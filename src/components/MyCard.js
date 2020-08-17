@@ -26,14 +26,14 @@ function MyCard({icon, title, description, buttonTitle}) {
           {description}
         </Card.Text>
         
-        {/* <a href="http://nutritious-eggs.surge.sh"> */}
         
+        <a href="https://mansoursaleh.github.io/maharaty2/">
         <Button   className="d-flex mr-auto ml-auto pl-5 pr-5 font-des" style={{backgroundColor: "#28BECD" , borderColor: "#28BECD"}}>
-       <Link to="/main" >
+       {/* <Link to="" > */}
        {buttonTitle}
-         </Link> 
+         {/* </Link>  */}
         </Button>
-        {/* </a> */}
+        </a>
       </Card.Body>
     </Card>
   );
