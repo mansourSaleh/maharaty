@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cea5780979f66b9e4d615ff78f6af135",
+    "revision": "b8e5cfcc34f82c671c271610cbfd7d66",
     "url": "/maharaty/index.html"
   },
   {
-    "revision": "6e77b0f4a52df7d75699",
+    "revision": "8e696ee4a32df5b2a5b8",
     "url": "/maharaty/static/css/2.ffcb96bc.chunk.css"
   },
   {
-    "revision": "66cfdbe287c9ce47a639",
+    "revision": "1a4a822657903e57dfa5",
     "url": "/maharaty/static/css/main.b56d1727.chunk.css"
   },
   {
-    "revision": "6e77b0f4a52df7d75699",
-    "url": "/maharaty/static/js/2.e428195a.chunk.js"
+    "revision": "8e696ee4a32df5b2a5b8",
+    "url": "/maharaty/static/js/2.9104e1d5.chunk.js"
   },
   {
     "revision": "4fdb92f5a0a11be5d79ae606cb253c2b",
-    "url": "/maharaty/static/js/2.e428195a.chunk.js.LICENSE.txt"
+    "url": "/maharaty/static/js/2.9104e1d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "66cfdbe287c9ce47a639",
-    "url": "/maharaty/static/js/main.cfd72b7e.chunk.js"
+    "revision": "1a4a822657903e57dfa5",
+    "url": "/maharaty/static/js/main.bb3a097b.chunk.js"
   },
   {
     "revision": "10ed5bc3c4250d301e6b",
