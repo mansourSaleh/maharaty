@@ -3,7 +3,7 @@ import React from 'react';
 import MyNav from './components/MyNav';
 
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Switch,
   Route,
   
@@ -13,29 +13,7 @@ import Main from './views/Main';
 
 
 
-function About() {
-  return<> 
-  <h2>About</h2> 
-  <h2>About</h2> 
-  <h2>About</h2> 
-  <h2>About</h2> 
-  <h2>About</h2> 
-  <h2>About</h2> 
-  <h2>About</h2> 
-  </>;
-}
 
-function Users() {
-  return <> 
-  <h1>السلام عليكم</h1>
-  <h1>السلام عليكم</h1>
-  <h1>السلام عليكم</h1>
-  <h1 className="fff">السلام عليكم</h1>
-  <h1 className="fff">السلام عليكم</h1>
-  <h1>السلام عليكم</h1>
-  <h1>السلام عليكم</h1>
-  </>;
-}
 
 
 function App() {
@@ -43,18 +21,13 @@ function App() {
     <Router>
       <MyNav />
       <Switch>
-          <Route exact path="/about">
-            <About />
-          </Route>
-          <Route exact path="/users">
-            <Users />
-          </Route>
-          <Route exact path="/">
+          
+          <Route  path="/">
             <Home />
           </Route>
-          <Route exact path="/main">
+          {/* <Route exact path="/main">
             <Main />
-          </Route>
+          </Route> */}
         </Switch>
       
     </Router>
