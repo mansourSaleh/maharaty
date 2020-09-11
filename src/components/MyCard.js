@@ -27,7 +27,7 @@ function MyCard({icon, title, description, buttonTitle}) {
         </Card.Text>
         
         
-        <a href="https://main.xn--mgbaj0a2hmz.com/">
+        <a href="http://xn--lgbbh4al3hxbb.xn--mgbaj0a2hmz.com/">
         <Button   className="d-flex mr-auto ml-auto pl-5 pr-5 font-des" style={{backgroundColor: "#28BECD" , borderColor: "#28BECD"}}>
        {/* <Link to="" > */}
        {buttonTitle}
