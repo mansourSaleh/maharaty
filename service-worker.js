@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/maharaty/precache-manifest.3e52cc29fefd3cf3148485c2f1b979d7.js"
+  "/maharaty/precache-manifest.38ab8df184a434e479d612e80d997454.js"
 );
 
 self.addEventListener('message', (event) => {

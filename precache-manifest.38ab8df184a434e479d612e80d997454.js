@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8e5cfcc34f82c671c271610cbfd7d66",
+    "revision": "00d7d90b84590d2d98f3ee3f4ba86004",
     "url": "/maharaty/index.html"
   },
   {
-    "revision": "8e696ee4a32df5b2a5b8",
-    "url": "/maharaty/static/css/2.ffcb96bc.chunk.css"
+    "revision": "f5a484c07cf77c09c874",
+    "url": "/maharaty/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "1a4a822657903e57dfa5",
+    "revision": "1efb40e56db0f91d1d06",
     "url": "/maharaty/static/css/main.b56d1727.chunk.css"
   },
   {
-    "revision": "8e696ee4a32df5b2a5b8",
-    "url": "/maharaty/static/js/2.9104e1d5.chunk.js"
+    "revision": "f5a484c07cf77c09c874",
+    "url": "/maharaty/static/js/2.ee551ee5.chunk.js"
   },
   {
-    "revision": "4fdb92f5a0a11be5d79ae606cb253c2b",
-    "url": "/maharaty/static/js/2.9104e1d5.chunk.js.LICENSE.txt"
+    "revision": "232aae28f8ee03096b30a3e0fbca302d",
+    "url": "/maharaty/static/js/2.ee551ee5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a4a822657903e57dfa5",
-    "url": "/maharaty/static/js/main.bb3a097b.chunk.js"
+    "revision": "1efb40e56db0f91d1d06",
+    "url": "/maharaty/static/js/main.6b1df964.chunk.js"
   },
   {
     "revision": "10ed5bc3c4250d301e6b",
@@ -40,20 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maharaty/static/media/arcitctur.aab10496.png"
   },
   {
-    "revision": "6cfd3dc0bb3db05862d6cf0f035119b4",
-    "url": "/maharaty/static/media/bg.6cfd3dc0.jpg"
-  },
-  {
     "revision": "a74f035ebc38a4028c8826cdd535dbbd",
     "url": "/maharaty/static/media/bgS.a74f035e.jpg"
   },
   {
     "revision": "a201a0a8ffe48466840186c9a2d3e81e",
     "url": "/maharaty/static/media/lab.a201a0a8.png"
-  },
-  {
-    "revision": "8ebc647c4d5ce5e46667fe7aca59900f",
-    "url": "/maharaty/static/media/logo-g.8ebc647c.png"
   },
   {
     "revision": "da14784224eae63a8ea5be011bbc7059",
