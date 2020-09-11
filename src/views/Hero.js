@@ -1,14 +1,14 @@
 import React from "react";
-import Scrowp from "../components/icons/Scrowp";
-import Man from "../components/icons/Man";
-import Man2 from "../components/icons/Man2";
-import User from "../components/icons/User";
+// import Scrowp from "../components/icons/Scrowp";
+// import Man from "../components/icons/Man";
+// import Man2 from "../components/icons/Man2";
+// import User from "../components/icons/User";
 import lab from '../assets/img/icons/lab.png'
 import space from '../assets/img/icons/space.png'
 import paint from '../assets/img/icons/paint.png'
 import arcitctur from '../assets/img/icons/arcitctur.png'
 import Typing from 'react-typing-animation';
-import Cursor from "../components/Cursor";
+// import Cursor from "../components/Cursor";
 import { motion } from "framer-motion";
 
 
